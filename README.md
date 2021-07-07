@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tkeyo
-- 👀 I’m interested in Python, Golang, Cloud, Machine Learning, IoT, and TinyML.
+- 👀 I’m interested in Python, Golang, Data, Cloud, Machine Learning, IoT, and TinyML.
 - 🌱 I’m currently learning EVERYTHING.
 - 📫 How to reach me @tkeyo_
 
